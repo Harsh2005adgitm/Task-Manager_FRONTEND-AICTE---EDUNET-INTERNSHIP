@@ -5,7 +5,7 @@
 A simple Task Manager Web App built with HTML, CSS, and JavaScript.
 Users can add, edit, delete, and mark tasks as completed, making it easier to stay organized and productive.
 
-🚀 Features
+ # Features
 
 ✅ Add new tasks easily
 
@@ -15,6 +15,4 @@ Users can add, edit, delete, and mark tasks as completed, making it easier to st
 
 ✔️ Mark tasks as completed with a tick option
 
-📱 Responsive design (works on desktop and mobile)
-
-🎨 Clean and simple UI with a purple theme
+🎨 Clean and simple UI 
