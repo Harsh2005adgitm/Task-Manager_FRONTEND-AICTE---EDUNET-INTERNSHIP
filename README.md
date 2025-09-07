@@ -23,20 +23,15 @@ HTML5 →
 Used for structuring the page (sections, headers, forms, lists, etc.).
 
 CSS3 (Internal Stylesheet) →
-Used for styling the layout, progress bar, buttons, responsive design, and purple theme.
+Used for styling the layout, progress bar, buttons, responsive design, and pink theme.
 
 JavaScript (Vanilla JS) →
 Used for all the functionality:
-
-Add, edit, delete tasks
-
-Mark tasks complete/incomplete (checkbox)
-
-Task filters (All / Active / Completed)
-
-Progress bar updates dynamically
-
-Data persistence with LocalStorage
+- Add, edit, delete tasks
+- Mark tasks complete/incomplete (checkbox)
+- Task filters (All / Active / Completed)
+- Progress bar updates dynamically
+- Data persistence with LocalStorage
 
 LocalStorage (Web API) →
 Used to save tasks in the browser so that tasks are not lost when refreshing.
