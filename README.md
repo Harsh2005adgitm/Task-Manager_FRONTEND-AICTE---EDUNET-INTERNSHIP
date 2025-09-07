@@ -35,3 +35,7 @@ Used for all the functionality:
 
 LocalStorage (Web API) →
 Used to save tasks in the browser so that tasks are not lost when refreshing.
+
+# Problem Statement 
+
+“Many users find it hard to manage daily tasks and track progress. This website allows users to add, edit, complete, and delete tasks while visualizing progress. It improves personal productivity and time management.”
